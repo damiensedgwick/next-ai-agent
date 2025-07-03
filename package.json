@@ -12,11 +12,8 @@
 	},
 	"dependencies": {
 		"next": "15.3.4",
-		"openai": "^5.8.2",
 		"react": "^19.0.0",
-		"react-dom": "^19.0.0",
-		"uuid": "^11.1.0",
-		"zod": "^3.25.67"
+		"react-dom": "^19.0.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.0.6",
